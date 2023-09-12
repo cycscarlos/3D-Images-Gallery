@@ -12,7 +12,7 @@ Este proyecto consiste en una galería de imágenes en 3 dimesiones y efecto ref
 
 <br>
 
-Take a look at the website at the following link [Github Pages] (https://cycscarlos.github.io/3D-Image-Gallery):
+Take a look at the website at the following link [Github Pages] (https://cycscarlos.github.io/3D-Images-Gallery):
 
 <br>
 
